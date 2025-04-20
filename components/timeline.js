@@ -132,7 +132,7 @@ export function HackTimeline() {
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078003/IMG_6854_1_t9ivdh.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745125643/WhatsApp_Image_2025-04-20_at_10.34.49_j6wigx.jpg"
               alt="bento template"
               width={500}
               height={500}
@@ -337,7 +337,7 @@ export function HackTimeline() {
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081044/671bdba95162bb0bab0ff495_alr1ko.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745125858/671a7f345fbf4dbfeddf1937_vvng3j.jpg"
               alt="cards template"
               width={500}
               height={500}

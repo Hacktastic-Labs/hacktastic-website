@@ -54,7 +54,7 @@ const items = [
       />
     ),
     icon: <IconClipboardCopy className="h-4 w-4 text-neutral-500" />,
-    link: "https://lecture-tracker.vercel.app",
+    link: "https://github.com/Hacktastic-Labs/hackarcode-2024",
   },
   {
     title: "AI Powered attendance system",
@@ -67,7 +67,7 @@ const items = [
       />
     ),
     icon: <IconFileBroken className="h-4 w-4 text-neutral-500" />,
-    link: "https://ai-attendance.vercel.app",
+    link: "https://github.com/Hacktastic-Labs/MAIT-Hackathon",
   },
   {
     title: "BuzzMeet",
@@ -81,7 +81,7 @@ const items = [
       />
     ),
     icon: <IconTableColumn className="h-4 w-4 text-neutral-500" />,
-    link: "https://buzzmeet.vercel.app",
+    link: "https://github.com/Hacktastic-Labs/srm-buzzmeet",
   },
   {
     title: "Edu Bounty",
@@ -94,7 +94,7 @@ const items = [
       />
     ),
     icon: <IconArrowWaveRightUp className="h-4 w-4 text-neutral-500" />,
-    link: "https://edu-bounty.vercel.app",
+    link: "https://github.com/Hacktastic-Labs/Edu-Chain-Sem-3",
   },
   {
     title: "Acharya the AI tutor",
@@ -108,6 +108,6 @@ const items = [
       />
     ),
     icon: <IconBoxAlignTopLeft className="h-4 w-4 text-neutral-500" />,
-    link: "https://acharya-ai.vercel.app",
+    link: "https://github.com/Hacktastic-Labs/acharya",
   },
 ];
