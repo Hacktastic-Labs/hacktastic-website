@@ -48,7 +48,7 @@ const items = [
     description: "keep track of your lectures and assignments.",
     header: (
       <img
-        src="https://res.cloudinary.com/dztauqacf/image/upload/v1745088140/Screenshot_2025-04-20_at_12.07.25_AM_q2z9uy.png"
+        src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745088140/Screenshot_2025-04-20_at_12.07.25_AM_q2z9uy.png"
         alt="Lecture Tracker"
         className="w-full min-h-[6rem] rounded-xl object-cover"
       />
@@ -61,7 +61,7 @@ const items = [
     description: "Dive into the transformative power of technology.",
     header: (
       <img
-        src="https://res.cloudinary.com/dztauqacf/image/upload/v1745088141/Screenshot_2025-04-20_at_12.09.26_AM_ocbnmp.png"
+        src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745088141/Screenshot_2025-04-20_at_12.09.26_AM_ocbnmp.png"
         alt="AI Powered attendance system"
         className="w-full min-h-[6rem] rounded-xl object-cover"
       />
@@ -75,7 +75,7 @@ const items = [
       "Understand the impact of effective communication in our lives.",
     header: (
       <img
-        src="https://res.cloudinary.com/dztauqacf/image/upload/v1745088140/Screenshot_2025-04-20_at_12.06.25_AM_p8llaz.png"
+        src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745088140/Screenshot_2025-04-20_at_12.06.25_AM_p8llaz.png"
         alt="BuzzMeet"
         className="w-full min-h-[6rem] rounded-xl object-cover"
       />
@@ -88,7 +88,7 @@ const items = [
     description: "Join the quest for learning, earning and enlightenment.",
     header: (
       <img
-        src="https://res.cloudinary.com/dztauqacf/image/upload/v1745088139/Screenshot_2025-04-20_at_12.05.51_AM_cicarw.png"
+        src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745088139/Screenshot_2025-04-20_at_12.05.51_AM_cicarw.png"
         alt="Edu Bounty"
         className="w-full min-h-[6rem] rounded-xl object-cover"
       />
@@ -102,7 +102,7 @@ const items = [
       "Experience the thrill of bringing ideas to life. revolutionizing learning.",
     header: (
       <img
-        src="https://res.cloudinary.com/dztauqacf/image/upload/v1745088140/Screenshot_2025-04-20_at_12.11.01_AM_swursn.png"
+        src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745088140/Screenshot_2025-04-20_at_12.11.01_AM_swursn.png"
         alt="Acharya the AI tutor"
         className="w-full min-h-[6rem] rounded-xl object-cover"
       />

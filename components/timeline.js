@@ -20,28 +20,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081728/IMG-20250417-WA0066_hzeeew.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081728/IMG-20250417-WA0066_hzeeew.jpg"
               alt="startup template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081780/20250417_174740_kgxj23.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081780/20250417_174740_kgxj23.jpg"
               alt="startup template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081723/IMG-20250417-WA0048_ejrl4r.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081723/IMG-20250417-WA0048_ejrl4r.jpg"
               alt="startup template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081725/IMG-20250417-WA0034_itf7ui.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081725/IMG-20250417-WA0034_itf7ui.jpg"
               alt="startup template"
               width={500}
               height={500}
@@ -68,28 +68,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745082962/20250405_213247_ikgdx8.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745082962/20250405_213247_ikgdx8.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745082963/IMG_20250406_120711_yuulxw.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745082963/IMG_20250406_120711_yuulxw.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745082961/IMG-20250405-WA0023_who4mn.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745082961/IMG-20250405-WA0023_who4mn.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745082961/IMG-20250405-WA0021_ayayu8.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745082961/IMG-20250405-WA0021_ayayu8.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -118,28 +118,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745077770/IMG_6363_gp6amj.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745077770/IMG_6363_gp6amj.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078015/IMG-20250326-WA0009_dodyfc.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078015/IMG-20250326-WA0009_dodyfc.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745125643/WhatsApp_Image_2025-04-20_at_10.34.49_j6wigx.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745125643/WhatsApp_Image_2025-04-20_at_10.34.49_j6wigx.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745077996/IMG_5884_1_mtoho7.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745077996/IMG_5884_1_mtoho7.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -169,28 +169,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078184/IMG-20250301-WA0012_1_b8pbae.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078184/IMG-20250301-WA0012_1_b8pbae.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078418/IMG_0085_peoogz.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078418/IMG_0085_peoogz.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078366/IMG-20250301-WA0009_oroccf.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078366/IMG-20250301-WA0009_oroccf.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078184/20250301_103948_q10gg2.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078184/20250301_103948_q10gg2.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -218,28 +218,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745079012/VideoCapture_20250225-053701-edited_yvrpej.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745079012/VideoCapture_20250225-053701-edited_yvrpej.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078611/Snapchat-694364382_au9bsu.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078611/Snapchat-694364382_au9bsu.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078610/20250223_003425_hornyp.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078610/20250223_003425_hornyp.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745078645/IMG_0079_1_ledszj.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745078645/IMG_0079_1_ledszj.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -267,28 +267,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745079205/DSC_0561_iz4jsg.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745079205/DSC_0561_iz4jsg.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745079218/DSC_0095_1_twqbur.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745079218/DSC_0095_1_twqbur.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745079205/IMG_9673_lzzddq.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745079205/IMG_9673_lzzddq.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745079204/DSC_0308_1_upqjnr.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745079204/DSC_0308_1_upqjnr.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -316,28 +316,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081044/671bf710fd57e7bf1e8529de_platre.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081044/671bf710fd57e7bf1e8529de_platre.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081047/20241025_151615_beaxtz.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081047/20241025_151615_beaxtz.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081045/20241025_151602_or1zqs.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081045/20241025_151602_or1zqs.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745125858/671a7f345fbf4dbfeddf1937_vvng3j.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745125858/671a7f345fbf4dbfeddf1937_vvng3j.jpg"
               alt="cards template"
               width={500}
               height={500}
@@ -363,28 +363,28 @@ export function HackTimeline() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081541/20240909_182050_lkawlr.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081541/20240909_182050_lkawlr.jpg"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081543/20240909_140554_svwql3.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081543/20240909_140554_svwql3.jpg"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081539/20240910_094456_abe5u7.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081539/20240910_094456_abe5u7.jpg"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
             />
             <img
-              src="https://res.cloudinary.com/dztauqacf/image/upload/v1745081540/20240910_111743_qtvmww.jpg"
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1745081540/20240910_111743_qtvmww.jpg"
               alt="cards template"
               width={500}
               height={500}
