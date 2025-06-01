@@ -5,6 +5,53 @@ import { HeroHighlight } from "./ui/hero-highlight";
 export function HackTimeline() {
   const data = [
     {
+      title: "HackVSIT 6.0",
+      content: (
+        <div>
+          <p className="mb-4 text-xs font-normal text-neutral-800 md:text-sm dark:text-neutral-200">
+            CRYPTO WIN
+          </p>
+          <div className="mb-8">
+            <div className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
+              made some quality of life changes to our previous project and
+              added a marketplace using aptos. bonus points for deployment. This
+              helped us win 1st place in Aptos Track.
+            </div>
+          </div>
+          <div className="grid grid-cols-2 gap-4">
+            <img
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1748756466/1746502791198_y7is2r.jpg"
+              alt="startup template"
+              width={500}
+              height={500}
+              className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
+            />
+            <img
+              src="https://res.cloudinary.com/dztauqacf/image/upload/q_auto,f_auto/v1748756466/1746502768919_ivekez.jpg"
+              alt="startup template"
+              width={500}
+              height={500}
+              className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
+            />
+            <img
+              src="https://res.cloudinary.com/dztauqacf/image/upload/v1748756466/1746502768486_aem9vf.jpg"
+              alt="startup template"
+              width={500}
+              height={500}
+              className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
+            />
+            <img
+              src="https://res.cloudinary.com/dztauqacf/image/upload/v1748756466/1746502776791_icyvxl.jpg"
+              alt="startup template"
+              width={500}
+              height={500}
+              className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60"
+            />
+          </div>
+        </div>
+      ),
+    },
+    {
       title: "Hackstasy 1.0",
       content: (
         <div>
